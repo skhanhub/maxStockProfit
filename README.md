@@ -36,7 +36,7 @@ npm start
 
 ### Overall Structure
 
-1. The `test` directory contains all the unit and integration tests.
+1. The `test` directory contains all the unit tests.
 2. The `src` directory contains the all the source code including the app.ts file.
 3. The `dist` directory contains all compiled js files.
 
