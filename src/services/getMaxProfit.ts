@@ -1,4 +1,5 @@
 // A function for calculating the max profit based on an array of stock prices
+// The function returns 0 if no profit can be made.
 export default function (stockPrices: number[]): number{
     if (stockPrices.length < 2) return 0
 
