@@ -39,6 +39,7 @@ npm start
 1. The `test` directory contains all the unit tests.
 2. The `src` directory contains the all the source code including the app.ts file.
 3. The `dist` directory contains all compiled js files.
+4. The function is stored under `C:\Programming\maxStockProfit\src\services\getMaxProfit.ts`
 
 ## Development
 
