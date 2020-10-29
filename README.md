@@ -6,7 +6,7 @@ A function for calculating the max profit based on an array of stock prices
 - The indices are the time in minutes past trade opening time, which was 10:00 am local time.
 - The values are the price in dollars of the stock at that time.
 - So if the stock cost $5 at 11:00am, stock_prices_yesterday[60] = 5.
-- Example for stockPrices = [10, 7, 5, 8, 11, 9] getMaxProfit(stockPrices)) returns 6 (buy at $5 sell at $11)
+- Example: for stockPrices = [10, 7, 5, 8, 11, 9] getMaxProfit(stockPrices)) returns 6 (buy at $5 sell at $11)
 
 The project uses the following technologies:
 
