@@ -1,6 +1,6 @@
 import getMaxProfit from "../../src/services/getMaxProfit";
 
-describe('Test for the getMaxProfit function', () => {
+describe('Tests for the getMaxProfit function', () => {
 
     test('Should calculate the maxProfit for a given stockPrice array', () => {
   

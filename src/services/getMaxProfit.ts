@@ -1,5 +1,5 @@
 // A function for calculating the max profit based on an array of stock prices
-export default function (stockPrices: number[]){
+export default function (stockPrices: number[]): number{
     if (stockPrices.length < 2) return 0
 
     let buyPrice = stockPrices[0];
