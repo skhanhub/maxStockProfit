@@ -1,7 +1,7 @@
 {
   "name": "maxStockProfit",
   "version": "1.0.0",
-  "description": "",
+  "description": "A function for calculating the max profit based on an array of stock prices",
   "main": "app.ts",
   "scripts": {
     "tslint": "tslint -c tslint.json 'src/**/*.ts",
